@@ -6,12 +6,12 @@
 <p align="center">
   <a href="https://github.com/tac101a?tab=followers"><img src="https://img.shields.io/github/followers/tac101a?logo=github&style=for-the-badge"/></a>
   <a href="https://github.com/tac101a"><img src="https://komarev.com/ghpvc/?username=tac101a&style=for-the-badge"/></a>
-  <img src="https://img.shields.io/badge/💻_IT-Engineer-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎮_Software_%26_Game_Developer-8A2BE2?style=for-the-badge"/>
 </p>
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=700&lines=Building+data+pipelines+%26+lakehouses;Streaming+with+Kafka+%7C+Spark+Structured+Streaming;Orchestrating+with+Airflow;Loving+Docker%2C+DevOps%2C+and+Dashboards"/>
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=700&lines=Game+Developer+%7C+Software+Engineer;Creating+immersive+experiences+with+Unity;Exploring+Unreal%2C+Flutter%2C+and+AI+Tools;Side+projects+in+data+engineering+and+analytics"/>
 </p>
 
 ---
@@ -42,39 +42,41 @@
 
 ---
 
-### Some Tools I Use & Learn 🚀
+### 🧩 Tech Stack & Tools I Use
 
 <p align="center">
-  <!-- Core -->
+  <!-- Game Dev -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="unreal" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="45" height="45"/>
+
+  <!-- Software & App -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="scala" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-  <!-- Data/Streaming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="spark" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
-  <!-- Cloud & Viz -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="grafana" width="45" height="45"/>
-  <img src="https://img.shields.io/badge/PowerBI-FAFAFA?logo=powerbi&logoColor=F2C811&style=for-the-badge" alt="powerbi" height="28"/>
-  <!-- Editors -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="45" height="45"/>
-  <!-- Extra -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+
+  <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
+  
+  <!-- Side / Data Projects -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="spark" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
 </p>
 
 ---
 
-<!-- Compact About / Focus Areas -->
 <p align="center">
-  <b>Focus:</b> Real-time data pipelines • Lakehouse architectures • Orchestration • Observability<br/>
-  <b>Stack:</b> Airflow · Kafka · Spark · Delta · Docker · PostgreSQL · MongoDB · Grafana/Power BI
+  <b>🎯 Focus:</b> Game development • Software engineering • Cross-platform apps<br/>
+  <b>🧠 Side interests:</b> Data streaming • Real-time analytics • Visualization
 </p>
 
 ---
