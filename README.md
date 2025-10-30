@@ -11,12 +11,19 @@
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=700&lines=Game+Developer+%7C+Software+Engineer;Creating+immersive+experiences+with+Unity;Exploring+Unreal%2C+Flutter%2C+and+AI+Tools;Side+projects+in+data+engineering+and+analytics"/>
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=700&lines=Game+Developer+%7C+Software+Engineer;Creating+immersive+experiences+with+Unity;Exploring+Unreal%2C+Flutter%2C+and+AI+Tools;"/>
 </p>
 
 ---
 
 ### Hi there 👋
+
+<!-- Profile Introduction -->
+<p align="center">
+  👋 I'm <b>Cao Nguyễn Tuấn Anh</b> — an IT student passionate about Software & Game Development.<br/>
+  🎓 Studying at <b>University of Science – Viet Nam National University, Ho Chi Minh City</b><br/>
+  📊 GPA: <b>3.49 / 4.00</b>
+</p>
 
 <!-- GitHub Stats & Activity -->
 <p align="center">
@@ -68,13 +75,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="spark" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
-</p>
-
----
-
-<p align="center">
-  <b>🎯 Focus:</b> Game development • Software engineering • Cross-platform apps<br/>
-  <b>🧠 Side interests:</b> Data streaming • Real-time analytics • Visualization
 </p>
 
 ---
