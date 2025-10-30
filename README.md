@@ -31,12 +31,12 @@
   </picture>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source srcset="https://github-readme-streak-stats.herokuapp.com?user=tac101a&theme=radical" media="(prefers-color-scheme: dark)"/>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=tac101a"/>
   </picture>
-</p>
+</p> -->
 
 <p align="center">
   <picture>
