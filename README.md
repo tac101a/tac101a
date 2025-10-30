@@ -75,21 +75,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
 </p>
 
----
-
-### 🚀 Featured Projects
-
-- 🕹️ [**Unity Game Engine – Maze Runner**](https://github.com/tac101a/paint)  
-  _Procedurally generated levels and AI pathfinding using A\* algorithm._
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tac101a&theme=radical&margin-w=10&margin-h=10"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tac101a&theme=react-dark"/>
-</p>
-
 <!-- Snake animation -->
 <p align="center">
   <picture>
