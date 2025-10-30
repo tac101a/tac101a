@@ -11,7 +11,7 @@
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=700&lines=Game+Developer+%7C+Software+Engineer;Creating+immersive+experiences+with+Unity;Exploring+Unreal%2C+Flutter%2C+and+AI+Tools;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Game+Engineer;Passionate+about+C%23%2C+Unity%2C+and+AI+Integration;Building+creative+apps+and+immersive+experiences;Always+learning+and+improving+every+day!"/>
 </p>
 
 ---
