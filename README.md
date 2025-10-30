@@ -16,12 +16,10 @@
 
 ---
 
-### Hi there 👋
-
 <!-- Profile Introduction -->
 <p align="center">
   👋 I'm <b>Cao Nguyễn Tuấn Anh</b> — an IT student passionate about Software & Game Development.<br/>
-  🎓 Studying at <b>University of Science – Viet Nam National University, Ho Chi Minh City</b><br/>
+  🎓 Studied at <b>University of Science – Viet Nam National University, Ho Chi Minh City</b><br/>
   📊 GPA: <b>3.49 / 4.00</b>
 </p>
 
