@@ -77,6 +77,11 @@
 
 ---
 
+### 🚀 Featured Projects
+
+- 🕹️ [**Unity Game Engine – Maze Runner**](https://github.com/tac101a/paint)  
+  _Procedurally generated levels and AI pathfinding using A\* algorithm._
+
 <!-- Snake animation -->
 <p align="center">
   <picture>
