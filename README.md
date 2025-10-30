@@ -75,6 +75,55 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
 </p>
 
+---
+
+### 💎 Featured Projects
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.DefaultCompany.LanguageCity" target="_blank">
+    🎮 <b>Language City – 3D English Learning Game</b>
+  </a><br/>
+  <i>Unity · Firebase · AI Speech · C#</i><br/>
+  A 3D gamified English learning app for Cambridge YLE (Starters–Movers–Flyers). 
+  Published on Google Play and recognized as the top-rated graduation capstone project.
+</p>
+
+<p align="center">
+  💬 <b>Luna – AI Chatbot Platform</b><br/>
+  <i>Flutter · Dart · Firebase</i><br/>
+  A cross-platform chatbot app for building custom AI knowledge bots with prompt libraries, authentication, 
+  and Pro account features. Focused on chat UI, AI Agent switching, and user experience.
+</p>
+
+<p align="center">
+  🛒 <b>Phone Shop Management System</b><br/>
+  <i>C# · SQL Server · REST API (NodeJS)</i><br/>
+  Three-layer desktop management system for products, orders, and customers. Includes backup/restore, 
+  dashboard, and report generation.
+</p>
+
+<p align="center">
+  🎨 <b>Paint Application</b><br/>
+  <i>C# · WPF · .NET</i><br/>
+  Desktop drawing app supporting basic and advanced shapes (Line, Rectangle, Ellipse) with color, thickness, 
+  and dash style customization. Allows external graphic library loading and PNG export.
+</p>
+
+<p align="center">
+  🎵 <b>Media Player</b><br/>
+  <i>C# · WinForm · JSON</i><br/>
+  Lightweight player supporting MP3/MP4 playback with playlist management, JSON storage, and keyboard shortcuts.
+</p>
+
+<p align="center">
+  🖼 <b>Photo Gallery App</b><br/>
+  <i>Java · Android · Firebase · ML Kit</i><br/>
+  Mobile app for image storage, OCR text extraction, and Firebase synchronization. 
+  Supports dark/light themes and threaded image loading.
+</p>
+
+---
+
 <!-- Snake animation -->
 <p align="center">
   <picture>
