@@ -41,7 +41,7 @@
 <p align="center">
   <picture>
     <source srcset="https://github-readme-streak-stats.herokuapp.com?user=tac101a&theme=radical&cache_seconds=7200" media="(prefers-color-scheme: dark)"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=tac101a&cache_seconds=7200"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=tac101a&cache_seconds=72000"/>
   </picture>
 </p>
 
