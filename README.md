@@ -27,14 +27,14 @@
 <p align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=tac101a&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github&cache_seconds=7200" media="(prefers-color-scheme: dark)"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=tac101a&show_icons=true&theme=default&include_all_commits=true&rank_icon=github&cache_seconds=17200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=tac101a&show_icons=true&theme=default&include_all_commits=true&rank_icon=github&cache_seconds=28800"/>
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tac101a&layout=compact&langs_count=8&theme=radical&cache_seconds=7200" media="(prefers-color-scheme: dark)"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tac101a&layout=compact&langs_count=8&cache_seconds=7200"/>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tac101a&layout=compact&langs_count=8&theme=radical&cache_seconds=28800" media="(prefers-color-scheme: dark)"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tac101a&layout=compact&langs_count=8&cache_seconds=28800"/>
   </picture>
 </p>
 
