@@ -41,7 +41,7 @@
 <p align="center">
   <picture>
     <source srcset="https://streak-stats.demolab.com?user=tac101a&theme=radical&cache_seconds=28800" media="(prefers-color-scheme: dark)"/>
-    <img src="https://streak-stats.demolab.com?user=tac101a&cache_seconds=28800"/>
+    <img src="https://streak-stats.demolab.com?user=tac101a&cache_seconds=48800"/>
   </picture>
 </p>
 
