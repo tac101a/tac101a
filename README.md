@@ -26,7 +26,7 @@
 <!-- GitHub Stats & Activity -->
 <p align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=tac101a&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github&cache_seconds=7200" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=tac101a&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github&cache_seconds=48800" media="(prefers-color-scheme: dark)"/>
     <img src="https://github-readme-stats.vercel.app/api?username=tac101a&show_icons=true&theme=default&include_all_commits=true&rank_icon=github&cache_seconds=48800"/>
   </picture>
 </p>
