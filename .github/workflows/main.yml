@@ -1,19 +1,24 @@
 name: Generate Snake Animation
 
 on:
+  # Chạy tự động vào 00:00 UTC mỗi ngày (tiết kiệm tài nguyên hơn 12h/lần)
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
+
+  # Cho phép chạy thủ công
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
     steps:
+      # Update lên v4 để tương thích Node 20
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
@@ -23,8 +28,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Update lên v4
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
