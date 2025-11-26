@@ -1,0 +1,48 @@
+name: Metrics
+on:
+  # 1. Tự động chạy vào 00:00 mỗi ngày (Giờ hệ thống UTC)
+  schedule: [{ cron: "0 0 * * *" }]
+  # 2. Cho phép chạy thủ công bằng nút bấm (để test)
+  workflow_dispatch:
+  # 3. Chạy khi push code vào nhánh chính (để debug nếu cần)
+  push: { branches: ["master", "main"] }
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # --- CẤU HÌNH USER ---
+          user: tac101a
+          template: classic
+          config_timezone: Asia/Ho_Chi_Minh
+
+          # --- CẤU HÌNH CƠ BẢN (Thay thế General Stats cũ) ---
+          base: header, activity, community, repositories, metadata
+
+          # --- PLUGIN 1: NGÔN NGỮ (Thay thế Top Langs cũ) ---
+          plugin_languages: yes
+          # Bỏ qua các ngôn ngữ không quan trọng để làm nổi bật Python/C#
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+          plugin_languages_threshold: 0%
+
+          # --- PLUGIN 2: LỊCH 3D (ISOMETRIC) ---
+          # Hiển thị biểu đồ commit dạng khối 3D (Rất hợp với Game Dev)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year # Hiển thị 6 tháng gần nhất
+
+          # --- PLUGIN 3: HUY HIỆU (ACHIEVEMENTS) ---
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C # Chỉ hiện các huy hiệu rank C trở lên
+
+          # --- OUTPUT ---
+          filename: github-metrics.svg
