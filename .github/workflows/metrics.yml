@@ -22,8 +22,8 @@ jobs:
           template: classic
           config_timezone: Asia/Ho_Chi_Minh
 
-          # --- CẤU HÌNH CƠ BẢN (Thay thế General Stats cũ) ---
-          base: header, activity, community, repositories, metadata
+          # --- CẤU HÌNH CƠ BẢN ---
+          base: header, activity, community, repositories
 
           # --- PLUGIN 1: NGÔN NGỮ (Thay thế Top Langs cũ) ---
           plugin_languages: yes
@@ -33,12 +33,18 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
+          plugin_languages_details: bytes-size, percentage
 
           # --- PLUGIN 2: LỊCH 3D (ISOMETRIC) ---
-          # Hiển thị biểu đồ commit dạng khối 3D (Rất hợp với Game Dev)
+          # Hiển thị biểu đồ commit dạng khối 3D
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year # Hiển thị 6 tháng gần nhất
-          # --- 4. TƯƠNG TÁC (FOLLOW-UP) - MỚI ---
+          # --- PLUGIN 3: SỐ DÒNG CODE ---
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+          # --- PLUGIN 4: TƯƠNG TÁC (FOLLOW-UP) ---
           # Hiển thị số lượng Issues/PRs đã giải quyết
           plugin_followup: yes
           plugin_followup_sections: repositories

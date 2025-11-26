@@ -44,6 +44,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tac101a&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</p>
+
 <!-- <p align="center">
   <picture>
     <source srcset="https://streak-stats.demolab.com?user=tac101a&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)"/>
