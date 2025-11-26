@@ -43,8 +43,6 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: no # Không hiện huy hiệu bí mật
-          plugin_achievements_threshold: C # Chỉ hiện rank C trở lên
-          plugin_achievements_ignored: octonaut # Ẩn huy hiệu mặc định ai cũng có
-
+          plugin_achievements_limit: 6
           # --- OUTPUT ---
           filename: github-metrics.svg
