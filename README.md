@@ -44,12 +44,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tac101a&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-</p>
-
 <!-- <p align="center">
   <picture>
     <source srcset="https://streak-stats.demolab.com?user=tac101a&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)"/>
@@ -104,4 +98,14 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tac101a/tac101a/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tac101a/tac101a/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/anh-cao-6b14ba32b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:tuananhcao.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
