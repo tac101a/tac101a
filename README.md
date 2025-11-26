@@ -24,7 +24,7 @@
 </p>
 
 <!-- GitHub Stats & Activity -->
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=tac101a&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github&cache_seconds=48800" media="(prefers-color-scheme: dark)"/>
     <img src="https://github-readme-stats.vercel.app/api?username=tac101a&show_icons=true&theme=default&include_all_commits=true&rank_icon=github&cache_seconds=48800"/>
@@ -35,6 +35,19 @@
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tac101a&layout=compact&langs_count=8&theme=radical&cache_seconds=28800" media="(prefers-color-scheme: dark)"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tac101a&layout=compact&langs_count=8&cache_seconds=28800"/>
+  </picture>
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/tac101a">
+    <img src="./github-metrics.svg" alt="Metrics" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source srcset="https://streak-stats.demolab.com?user=tac101a&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)"/>
+    <img src="https://streak-stats.demolab.com?user=tac101a&hide_border=true"/>
   </picture>
 </p>
 
