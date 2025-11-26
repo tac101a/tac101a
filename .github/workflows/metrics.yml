@@ -41,9 +41,9 @@ jobs:
 
           # --- PLUGIN 3: HUY HIỆU (ACHIEVEMENTS) ---
           plugin_achievements: yes
-          plugin_achievements_display: detailed # Đổi sang detailed nhìn cho rõ lỗi hoặc đẹp hơn
-          plugin_achievements_secrets: yes # Cho phép đọc huy hiệu ẩn
-          plugin_achievements_ignored: octonaut # Bỏ qua huy hiệu mặc định nếu cần
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C # Chỉ hiện rank C trở lên
+          plugin_achievements_ignored: octonaut # Ẩn huy hiệu mặc định ai cũng có
 
           # --- OUTPUT ---
           filename: github-metrics.svg
