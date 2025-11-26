@@ -41,7 +41,6 @@ jobs:
 
           # --- PLUGIN 3: HUY HIỆU (ACHIEVEMENTS) ---
           plugin_achievements: yes
-          plugin_achievements_display: compact
           plugin_achievements_secrets: no # Không hiện huy hiệu bí mật
           plugin_achievements_limit: 6
           # --- OUTPUT ---
