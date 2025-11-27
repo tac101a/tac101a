@@ -101,7 +101,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/anh-cao-6b14ba32b">
+  <a href="https://linkedin.com/in/tac1107">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
