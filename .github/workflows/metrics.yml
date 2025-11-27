@@ -38,7 +38,7 @@ jobs:
           # --- PLUGIN 2: LỊCH 3D (ISOMETRIC) ---
           # Hiển thị biểu đồ commit dạng khối 3D
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year # Hiển thị 6 tháng gần nhất
+          plugin_isocalendar_duration: full-year # Hiển thị 6 tháng gần nhất
           # --- PLUGIN 3: SỐ DÒNG CODE ---
           plugin_lines: yes
           plugin_lines_history_limit: 1
