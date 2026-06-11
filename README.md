@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=800&lines=Software+Engineer+%40+FPT+Software+;DevOps+%7C+SRE+%7C+CI%2FCD+%7C;Applying+the+Engineering+Mindset+to+System+Architecture!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=800&lines=Software+Engineer+%40+FPT+Software+;DevOps+%7C+SRE+%7C+CI%2FCD;Applying+the+Engineering+Mindset+to+System+Architecture!"/>
 </p>
 
 ---
